@@ -1,3 +1,8 @@
+<!-- Social preview for GitHub and Twitter -->
+<meta property="og:image" content="https://github.com/aliiane/LUIS-Usability-Thesis-Zogota/raw/main/banner.png" />
+<meta property="og:title" content="Master’s thesis project – improving LUIS usability through UX redesign and data analysis" />
+<meta property="og:description" content="Colab notebooks, survey analysis, Figma prototypes and final thesis file for improving academic UX." />
+
 ![LUIS Mobile Redesign Banner](./banner.png)
 
 **Master's Thesis Project – Alīna Žogota-Kiliča**
