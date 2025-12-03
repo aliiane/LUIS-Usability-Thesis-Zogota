@@ -1,4 +1,4 @@
-
+![LUIS Mobile Redesign Banner](./banner.png)
 
 **Master's Thesis Project – Alīna Žogota-Kiliča**
 
