@@ -1,3 +1,5 @@
+![LUIS Mobile Redesign Banner](./banner.png)
+
 **Master's Thesis Project – Alīna Žogota-Kiliča**
 
 "Improving an Academic Information System through Cognitive Load Principles and User-Centered Information Architecture"
