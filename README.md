@@ -78,7 +78,7 @@ https://docs.google.com/forms/d/1QK8WAgaQdCBgwKitUwyu9LBv_RroApEtlLEz8u80BTE/edi
 Student mobile prototype survey (**Task- Enroll into the Marketing course.**):
 https://docs.google.com/forms/d/1ijo1VBDsBj95vbPc3fpgaQmX_AlLTJm1S-B7yo6uicI/edit
 
-Admin desktop prototype survey (**Task- Upload grades using the Excel upload option**):
+Admin desktop prototype survey (**Task- Upload grades using the Excel upload option.**):
 https://docs.google.com/forms/d/1ysVpEfu3-vy0dEzDt2N_cq9xDcgLDRKtu7aB-SevADM/edit
 
 **Figma Prototypes**
