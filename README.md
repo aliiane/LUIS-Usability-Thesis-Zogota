@@ -72,13 +72,13 @@ Workflow_Prototype_Test_Cleaned.csv
 First usability survey:
 https://docs.google.com/forms/d/1iNduA1BEcRpB94fOowBFbW3ps9Mq45Mn4NtR2quHZao/edit
 
-Student desktop prototype survey (**Task- Enroll into the Marketing course.**):
+Student desktop prototype survey:
 https://docs.google.com/forms/d/1QK8WAgaQdCBgwKitUwyu9LBv_RroApEtlLEz8u80BTE/edit
 
-Student mobile prototype survey (**Task- Enroll into the Marketing course.**):
+Student mobile prototype survey:
 https://docs.google.com/forms/d/1ijo1VBDsBj95vbPc3fpgaQmX_AlLTJm1S-B7yo6uicI/edit
 
-Admin desktop prototype survey (**Task- Upload grades using the Excel upload option.**):
+Admin desktop prototype survey:
 https://docs.google.com/forms/d/1ysVpEfu3-vy0dEzDt2N_cq9xDcgLDRKtu7aB-SevADM/edit
 
 **Figma Prototypes**
@@ -86,13 +86,13 @@ https://docs.google.com/forms/d/1ysVpEfu3-vy0dEzDt2N_cq9xDcgLDRKtu7aB-SevADM/edi
 Main file with workflow design:
 https://www.figma.com/design/wopn6cWNtnmSnjgLJHZ33Y/Zogota_Thesis_Workflows?node-id=32-22&t=dAgeds4aWI3YbpFh-1
 
-Desktop Workflow 2 prototype (Admin Grade Entry):
+Desktop Workflow 2 prototype (**Task- Upload grades using the Excel upload option.**):
 https://www.figma.com/proto/wopn6cWNtnmSnjgLJHZ33Y/Zogota_Thesis_Workflows?node-id=4943-2074&p=f&t=Gll3UQJx0LsskbME-1&scaling=contain&content-scaling=fixed&page-id=4943%3A1741&starting-point-node-id=4943%3A2074
 
-Desktop Workflow 1 prototype (Course Registration):
+Desktop Workflow 1 prototype  (**Task- Enroll into the Marketing course.**):
 https://www.figma.com/proto/wopn6cWNtnmSnjgLJHZ33Y/Zogota_Thesis_Workflows?node-id=4943-1068&p=f&t=GNflveEFvM9gmhx5-1&scaling=contain&content-scaling=fixed&page-id=4943%3A864&starting-point-node-id=4943%3A1068
 
-Mobile Workflow 1 prototype (Course Registration):
+Mobile Workflow 1 prototype  (**Task- Enroll into the Marketing course.**):
 https://www.figma.com/proto/wopn6cWNtnmSnjgLJHZ33Y/Zogota_Thesis_Workflows?node-id=4932-1794&p=f&t=g6FzfLPAuTHl0lc6-1&scaling=scale-down&content-scaling=fixed&page-id=4932%3A1147&starting-point-node-id=4932%3A1794
 
 **Thesis Document**
