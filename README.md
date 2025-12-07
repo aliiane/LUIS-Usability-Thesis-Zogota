@@ -7,7 +7,7 @@
 
 **Master's Thesis Project – Alīna Žogota-Kiliča**
 
-"Improving an Academic Information System through Cognitive Load Principles and User-Centered Information Architecture"
+"IMPROVING AN ACADEMIC INFORMATION SYSTEM THROUGH COGNITIVE LOAD PRINCIPLES AND USER-CENTERED INFORMATION ARCHITECTURE: A CASE STUDY OF LUIS"
 
 Riga Technical University
 Digital Humanities MSc | Student ID: 241RHM001
@@ -104,3 +104,5 @@ License
 This work is for academic and educational purposes only.
 Please contact alina.zogota@gmail.com
  for citation or use.
+ ![System Diagram](diagram.png)
+
