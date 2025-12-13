@@ -105,5 +105,5 @@ This work is for academic and educational purposes only.
 Please contact alina.zogota@gmail.com
  for citation or use.
  
- ![System Diagram](diagram.png)
+ ![System Diagram](diagram3.png)
 
