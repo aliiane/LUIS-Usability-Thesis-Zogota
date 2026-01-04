@@ -3,7 +3,7 @@
 <meta property="og:title" content="Master’s thesis project – improving LUIS usability through UX redesign and data analysis" />
 <meta property="og:description" content="Colab notebooks, survey analysis, Figma prototypes and final thesis file for improving academic UX." />
 
-![LUIS Mobile Redesign Banner](./banner.png)
+![LUIS Mobile Redesign Banner](./visuals/banner.png)
 
 **Master's Thesis Project – Alīna Žogota-Kiliča**
 
@@ -105,5 +105,4 @@ This work is for academic and educational purposes only.
 Please contact alina.zogota@gmail.com
  for citation or use.
  
- ![System Diagram](diagram3.png)
-
+![System Diagram](./visuals/diagram3.png)
